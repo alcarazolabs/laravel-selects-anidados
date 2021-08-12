@@ -10,6 +10,11 @@
 <img src="https://github.com/alcarazolabs/laravel-selects-anidados/blob/main/demo.png">
 <h3> Download this tables and import this tables your database before create the migrations of this project:</h3>
 <a href="https://github.com/alcarazolabs/peru-departments-provinces-districts-bd/blob/main/db-peru-departments-provinces-districts.sql">Peru departments, provinces and districts - INEI 2016</a>
+<h3>Run: </h3>
+- php artisan key:generate
+- php artisan migrate
+- npm install
+- npm run dev
 <hr>
 ## About Laravel
 
