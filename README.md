@@ -6,10 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## Demo
+<h3>Demo image</h3>
 <img src="https://github.com/alcarazolabs/laravel-selects-anidados/blob/main/demo.png">
-## Download this tables and import this tables your database before create the migrations of this project:
+<h3> Download this tables and import this tables your database before create the migrations of this project:</h3>
 <a href="https://github.com/alcarazolabs/peru-departments-provinces-districts-bd/blob/main/db-peru-departments-provinces-districts.sql">Peru departments, provinces and districts - INEI 2016</a>
+<hr>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
